@@ -35,7 +35,7 @@ body {
 }
 @media screen and (max-width: 768px) {
     .slotwrapper {
-        height: 80px;
+        height: 100px;
     }
     .slotwrapper ul {
         height:100px;
