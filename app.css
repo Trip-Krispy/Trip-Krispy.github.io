@@ -6,7 +6,7 @@ body {
     overflow: hidden;
     display: inline-block;
     border: 0px solid #000;
-    height: 200px;
+    height: 100%;
 }
 .slotwrapper ul {
     padding: 0;
