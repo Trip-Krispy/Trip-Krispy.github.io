@@ -19,7 +19,7 @@ body {
     width: 12vw;  /*  was 165px   */
     height:12vh; /* was 150px   */
     font-size: 200px;
-    line-height: 12vh; /* was 200px   */
+    line-height: 200px; /* was 200px   */
     text-align: center;
 }
 .slotwrapper ul li img {
