@@ -19,7 +19,7 @@ body {
     width: 25vmin;  /*  was 165px   */
     height:25vmin; /* was 150px   */
     font-size: 200px;
-    line-height: 50vmin; /* was 200px   */
+    line-height: 200px; /* was 200px   */
     text-align: center;
 }
 .slotwrapper ul li img {
@@ -28,7 +28,7 @@ body {
 
 @media screen and (max-width: 1200px) {
     .slotwrapper {
-        width: 70vw; /* was 100%  */
+        width: 70vmin; /* was 100%  */
     }
     .slotwrapper ul {
         width: 33vw; /*was 33%   */
