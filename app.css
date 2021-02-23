@@ -18,7 +18,7 @@ body {
 .slotwrapper ul {
     width: 25vmin;  /*  was 165px   */
     height:25vmin; /* was 150px   */
-    font-size: 200px;
+    /*font-size: 200px;  */
     line-height: 200px; /* was 200px   */
     text-align: center;
 }
@@ -26,21 +26,5 @@ body {
     vertical-align: top;
 }
 
-@media screen and (max-width: 1200px) {
-    .slotwrapper {
-        width: 80vmin; /* was 100%  */
-    }
-    .slotwrapper ul {
-        width: 10vmin; /*was 33%   */
-    }
-}
-@media screen and (max-width: 768px) {
-    .slotwrapper {
-        height: 70vh; /* was 100px    */
-    }
-    .slotwrapper ul {
-        height:20vh; /* was 100px    */
-        font-size: 100px;
-        line-height: 20vh; /* was 100px    */
-    }
-}
+
+ 
