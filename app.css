@@ -16,7 +16,7 @@ body {
     float: left;
 }
 .slotwrapper ul {
-    width: 12vw;  /*  was 165px   */
+    width: 12vmin;  /*  was 165px   */
     height:12vh; /* was 150px   */
     font-size: 200px;
     line-height: 200px; /* was 200px   */
