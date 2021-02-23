@@ -17,7 +17,7 @@ body {
 }
 .slotwrapper ul {
     width: 25vmin;  /*  was 165px   */
-    height:12vh; /* was 150px   */
+    height:25vmin; /* was 150px   */
     font-size: 200px;
     line-height: 200px; /* was 200px   */
     text-align: center;
