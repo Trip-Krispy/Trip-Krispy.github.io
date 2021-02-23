@@ -41,6 +41,6 @@ body {
     .slotwrapper ul {
         height:20vh; /* was 100px    */
         font-size: 100px;
-        line-height: 100px; /* was 100px    */
+        line-height: 20vh; /* was 100px    */
     }
 }
