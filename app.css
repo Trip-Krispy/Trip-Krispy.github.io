@@ -31,7 +31,7 @@ body {
         width: 70vmin; /* was 100%  */
     }
     .slotwrapper ul {
-        width: 33vw; /*was 33%   */
+        width: 33vmin; /*was 33%   */
     }
 }
 @media screen and (max-width: 768px) {
