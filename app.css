@@ -26,7 +26,6 @@ body {
     vertical-align: top;
 }
 
-/*
 @media screen and (max-width: 1200px) {
     .slotwrapper {
         width: 100%;
@@ -45,8 +44,6 @@ body {
         line-height: 100px;
     }
 }
-
-*/
 
 /* Example 10 override slotwrapper */
 #example10 {
